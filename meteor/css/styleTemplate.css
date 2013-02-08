@@ -1,0 +1,114 @@
+@font-face
+{
+font-family: Bebas Neue;
+src: url('fonts/BebasNeue.otf'),
+}
+
+@font-face
+{
+font-family: Bebas;
+src: url('fonts/Bebas.ttf'),
+}
+
+@font-face
+{
+font-family: Bellerose;
+src: url('fonts/Bellerose.ttf'),
+}
+
+
+@font-face
+{
+font-family: Highway Gothic;
+src: url('fonts/HWYGOTH.ttf'),
+}
+
+
+@font-face
+{
+font-family: calibri;
+src: url('fonts/calibri.ttf'),
+}
+
+
+
+
+html{
+}
+
+body{
+  
+}
+
+#head{
+	height: 169px;
+	margin-top: -10px;
+	margin-left: -10px;
+	width: 105%;
+	background-color: #5e0000;
+}
+
+#navigation2{
+	width: 880px;
+
+}
+
+
+#logo{
+	width: 500px;
+
+}
+
+#headercont{
+	border-collapse: collapse;
+}
+
+
+#navpos{
+	margin-left: 30px;
+	margin-top: 30px;
+	font: 35px Bebas Neue;
+	color: #ffe35f;
+}
+
+a.h{
+
+	color: #ffe35f;
+	text-decoration: none;
+}
+
+a.h:hover{
+
+	opacity: 0.8;
+}
+
+#footer_box{
+	background-color: #141414;
+	height: 150px;
+	
+	margin-left: -10px;
+	width: 105%;
+	margin-bottom: -50px;
+}
+
+.footertable{
+	width: 100%;
+	padding-top: 10px;
+	
+	height: 130px;
+	font: 20px Bebas;
+	color: #cccc99;
+}
+
+.footertable a{
+	text-decoration: none;
+	color: #cccc99;
+	opacity : 0.6;
+	
+}
+
+#rulera{
+	width: 1px;
+	background-color: #cccc99;
+	opacity: 0.3;
+}
